@@ -1,10 +1,19 @@
 [
 null,
 {"id":1,"expanded":true,"name":"IntroMap","order":2,"parentId":0,"scrollX":928.5,"scrollY":528.75},
+<<<<<<< HEAD
 {"id":2,"expanded":false,"name":"040 - Relic Cave","order":6,"parentId":0,"scrollX":726,"scrollY":2196.6666666666665},
 null,
 {"id":4,"expanded":true,"name":"010-Starship","order":3,"parentId":0,"scrollX":1234.5,"scrollY":633.5},
 {"id":5,"expanded":true,"name":"020-LandingZone","order":4,"parentId":0,"scrollX":1375.5,"scrollY":786.5},
 {"id":6,"expanded":false,"name":"DebugMap","order":1,"parentId":0,"scrollX":822.5,"scrollY":852.5},
 {"id":7,"expanded":true,"name":"030-AncientWorld","order":5,"parentId":0,"scrollX":1633.5,"scrollY":1048.5}
+=======
+{"id":2,"expanded":false,"name":"040 - Relic Cave","order":6,"parentId":0,"scrollX":895.5,"scrollY":3681.5},
+null,
+{"id":4,"expanded":true,"name":"010-Starship","order":3,"parentId":0,"scrollX":1234,"scrollY":633.6666666666666},
+{"id":5,"expanded":true,"name":"020-LandingZone","order":4,"parentId":0,"scrollX":967.5,"scrollY":1160.25},
+{"id":6,"expanded":false,"name":"DebugMap","order":1,"parentId":0,"scrollX":822.5454545454545,"scrollY":852.7272727272727},
+{"id":7,"expanded":true,"name":"030-AncientWorld","order":5,"parentId":0,"scrollX":928.7272727272727,"scrollY":629.4545454545455}
+>>>>>>> parent of dcdbb56 (refined the ancient language controls to the last room)
 ]
