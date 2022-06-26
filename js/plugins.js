@@ -11,5 +11,6 @@ var $plugins =
 {"name":"GALV_ActionIndicatorsMZ","status":true,"description":"(v.1.0) Display an icon when the player is able to interact with an event. View help for comment tag.","parameters":{"yOffset":"30","zPosition":"99","autoHide":"true","iconOpacity":"255"}},
 {"name":"Cae_DashOpts","status":true,"description":"v1.0 - Dash options: speed, frame-skip, event dashing, etc.","parameters":{"Dash Extra Speed":"1.00","Skip Standing Frame":"false","Add Save Data":"false","--- Advanced ---":"","Property: dashSpeed":"_dashSpeed","Property: isDashing":"_isDashing","Property: Save":"Cae_DashOpts"}},
 {"name":"Rhyme_MapSmoothScrolling","status":true,"description":"this plugin permit to smooth scroll in map","parameters":{"SpeedDivider":"15"}},
-{"name":"CC_AutoFullScreen","status":true,"description":"Start game in full screen mode.","parameters":{"default":"false","Scene_Options":"","optionCommandEnable":"true","textOptionCommand":"Full Screen"}}
+{"name":"CC_AutoFullScreen","status":true,"description":"Start game in full screen mode.","parameters":{"default":"false","Scene_Options":"","optionCommandEnable":"true","textOptionCommand":"Full Screen"}},
+{"name":"GALV_MessageStylesMZ","status":false,"description":"(v.2.1) 'Show Text' windows float above characters and change visuals during game.","parameters":{"iIndicator":"2,0,-12","mPadding":"0,0,0,0","invertPos":"false","aGraphic":"WindowArrow","yOffset":"60"}}
 ];
